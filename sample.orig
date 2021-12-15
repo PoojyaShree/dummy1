@@ -1,5 +1,6 @@
 this is sample text
-
+<<<<<<< HEAD
 this is new line in local repo
+=======
 this is new line add in github
-
+>>>>>>> 8e49b29c1f46417033ba65ef059f62194eb0fda4
